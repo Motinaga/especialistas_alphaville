@@ -1,0 +1,4 @@
+2025/08/27-22:29:26.958 b24 Reusing MANIFEST C:\projetos\especialistas\data\.pupp_profile\Default\IndexedDB\https_alphaville.cvcrm.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/27-22:29:26.959 b24 Recovering log #155
+2025/08/27-22:29:26.960 b24 Reusing old log C:\projetos\especialistas\data\.pupp_profile\Default\IndexedDB\https_alphaville.cvcrm.com.br_0.indexeddb.leveldb/000155.log 
+2025/08/27-22:29:27.345 4ba8 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,13 @@
+2025/08/28-12:45:40.610 a8c Reusing MANIFEST C:\projetos\especialistas\data\.pupp_profile\Default\IndexedDB\https_alphaville.cvcrm.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2025/08/28-12:45:40.610 a8c Recovering log #155
+2025/08/28-12:45:40.611 a8c Reusing old log C:\projetos\especialistas\data\.pupp_profile\Default\IndexedDB\https_alphaville.cvcrm.com.br_0.indexeddb.leveldb/000155.log 
+2025/08/28-12:45:46.217 4734 Level-0 table #160: started
+2025/08/28-12:45:46.220 4734 Level-0 table #160: 5168 bytes OK
+2025/08/28-12:45:46.222 4734 Delete type=0 #155
+2025/08/28-12:45:46.224 dcc Manual compaction at level-0 from '\x00;\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at '\x00;\x00\x00\x05' @ 1478 : 1
+2025/08/28-12:45:46.224 dcc Compacting 1@0 + 1@1 files
+2025/08/28-12:45:46.227 dcc Generated table #161@0: 207 keys, 3236 bytes
+2025/08/28-12:45:46.227 dcc Compacted 1@0 + 1@1 files => 3236 bytes
+2025/08/28-12:45:46.228 dcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/08/28-12:45:46.228 dcc Delete type=2 #160
+2025/08/28-12:45:46.228 a8c Manual compaction at level-0 from '\x00;\x00\x00\x05' @ 1478 : 1 .. '\x00<\x00\x00\x00' @ 0 : 0; will stop at (end)
